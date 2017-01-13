@@ -1,0 +1,138 @@
+/*NAV*/
+
+/*header*/
+
+h1{
+font-size: 133px;
+color: #cfa205;
+text-align: center;
+font-weight: 200;
+}
+h2{
+
+
+}
+h3{
+
+
+}
+h4{
+
+
+}
+p{
+  color: #7a7a7a;
+}
+
+
+.sous_titre{
+color: #cfa205;
+text-align: center;
+margin-bottom: -1px;
+font-weight: bold;
+
+}
+
+.header{
+  background-color: black;
+}
+
+.body{
+height:1020px;
+background: url("images/bg.jpg");
+background-size: cover;
+font-family: 'Josefin Sans', sans-serif;
+
+}
+.container{
+margin-left: 150px;
+margin-right: 150px;
+
+}
+
+header nav {
+   text-align: center;
+
+
+}
+
+header nav ul {
+    display: inline-block;
+    width: 900px;
+
+}
+
+header nav ul li {
+  display: inline-block;
+  list-style: none;
+  text-transform: uppercase;
+  padding: 0 2% 0 0%;
+
+
+}
+
+header nav ul li a {
+     text-decoration: none;
+     color: white;
+}
+header nav ul li a:hover{
+color: #cfa205;
+font-weight: bold;
+
+}
+.logos{
+position: relative;
+height: 70px;
+background-color:#e8e8e8;
+position: relative;
+&#xe227;
+
+
+}
+
+.blanc{
+
+background-color: white;
+
+}
+
+
+
+
+.text{
+background-color: white;
+  color: #7a7a7a;
+  border-bottom: 1px solid black;
+  text-align: center;
+  margin-top: -17px;
+  padding-top: 5%;
+  font-weight: bold;
+  padding-bottom: 3%;
+  font-family: 'Bitter', serif;
+  font-weight: bold;
+
+
+}
+
+.colonnes{
+display: flex;
+width: 1020px;
+justify-content: space-around;
+margin-left: -2%;
+
+}
+.colonne1{
+text-align: center;
+
+}
+.colonne2{
+  text-align: center;
+
+
+}
+
+.colonne3{
+
+  text-align: center;
+
+}
